@@ -11,9 +11,9 @@ int countMatchInRegex(std::string s, std::regex re)
     return std::distance(words_begin, words_end);
 }
 int main(void){
-    regex re_if("if/(");
-    regex re_while("while");
-    regex re_for("for");
+    regex re_if("if(.*)");
+    regex re_while("while(.*)");
+    regex re_for("for(.*)");
     fstream ifs("input.txt");
     string str;
     int c_if=0,c_while=0,c_for=0;
