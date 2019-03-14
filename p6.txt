@@ -1,0 +1,91 @@
+Enter the size of project : 44
+
+Mode = Organic
+Rate cost driver RELY on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver DATA on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver CPLX on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver TIME on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver STOR on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver VIRT on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver TURN on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver ACAP on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver AEXP on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver PCAP on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver VEXP on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver LEXP on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver MODP on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver TOOL on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+Rate cost driver SCED on scale of 0-5 :
+0-Very Low      1-Low   2-Nominal       3-High  4-Very High     5-Extra High
+2
+
+EAF = 1.000000
+
+Effort = 170.127777 Person-Month
+Development Time = 17.604942 Months
+Average Staff Required = 10 Persons
+Productivity = 0.258629 KLOC/Person-Month
+
+
+Enter Ogranic - Small(0) or Medium(1) : 0
+
+
+Phase-wise Distribution of Effort is :
+
+
+Planning and Requirements Phase  =  10.207666
+System Design Phase  =  27.220444
+Detail Design Phase  =  44.233219
+Module Code and Test Phase  =  71.453667
+Integration and Test Phase  =  27.220444
+
+Phase-wise Distribution of Development Time is :
+
+
+Planning and Requirements Phase  =  1.760494
+System Design Phase  =  3.344939
+Detail Design Phase  =  4.225186
+Module Code and Test Phase  =  6.865927
+Integration and Test Phase  =  3.168890
